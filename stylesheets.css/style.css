@@ -1,0 +1,50 @@
+body{
+	 margin: 0px;
+}
+.container{
+	margin: 0px;
+	text-align: center;
+}
+.logo{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 12%;
+}
+.logo img{
+	width: 50px;
+}
+.navbar {
+	margin: 0px;
+}
+.GD{
+	height: 57px;
+  	padding-left: 28px;
+}
+.item{
+	margin: 0px;
+}
+.billie{
+	width: 100%;
+}
+.mike{
+	width: 100%;
+}
+.gday{
+	width: 50%;
+}
+.row{
+	padding-bottom: 35px;
+	padding-top: 31px;
+	text-align: center;
+	margin: 0 auto;
+}
+.right{
+	height: 586px;
+} 
+.left{
+	height: 586px;
+}
+li{
+	padding-left: 34px;
+	font-size: 19px;
+}
